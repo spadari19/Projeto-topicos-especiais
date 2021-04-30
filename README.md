@@ -1,6 +1,6 @@
 # Projeto-topicos-especiais
 
-Web page para vizualização dos dados recebidos dos sensores de temperatura e umidade.
+Web page para visualização dos dados recebidos dos sensores de temperatura e umidade.
 
 Desenvolvido a partir de um projeto existente encontrado no repositório: https://github.com/fabaff/mqtt-panel
 
